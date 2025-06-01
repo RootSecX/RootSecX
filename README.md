@@ -14,8 +14,6 @@ I am a Cybersecurity Professional with expertise in penetration testing, ethical
 
 ## Certifications
 
-🏆 OSCP (Offensive Security Certified Professional) (In Progress)
-
 🏆 Google CyberSecurity Professional
 
 🏆 Certified Ethical Hacker (CEH)
