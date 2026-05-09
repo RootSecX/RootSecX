@@ -64,67 +64,106 @@ Operating across the full spectrum of **offensive and defensive security** — f
 
 ### `04` &nbsp; Technical Stack
 
+
 <div align="center">
 
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🐍 Languages & Automation</h3>
-      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB"/>
-      <img src="https://img.shields.io/badge/PowerShell-0d1117?style=flat-square&logo=powershell&logoColor=5391FE"/>
-      <img src="https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=4EAA25"/>
-    </td>
-    <td width="33%" valign="top">
-      <h3>💥 Offensive Tooling</h3>
-      <img src="https://img.shields.io/badge/Metasploit-0d1117?style=flat-square&logo=metasploit&logoColor=2596CD"/>
-      <img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=burpsuite&logoColor=FF6633"/>
-      <img src="https://img.shields.io/badge/BloodHound-0d1117?style=flat-square&logo=bloodhound&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Impacket-0d1117?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Responder-0d1117?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=nmap&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Nessus-0d1117?style=flat-square&logo=tenable&logoColor=00BB00"/>
-      <img src="https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=1679A7"/>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🏢 Identity & Enterprise</h3>
-      <img src="https://img.shields.io/badge/Active_Directory-0d1117?style=flat-square&logo=windows&logoColor=0078D4"/>
-      <img src="https://img.shields.io/badge/Azure_AD-0d1117?style=flat-square&logo=microsoftazure&logoColor=0078D4"/>
-      <img src="https://img.shields.io/badge/Kerberos-0d1117?style=flat-square&logo=key&logoColor=white"/>
-      <img src="https://img.shields.io/badge/LDAP-0d1117?style=flat-square&logo=directory&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Group_Policy-0d1117?style=flat-square&logo=microsoft&logoColor=white"/>
-      <img src="https://img.shields.io/badge/RBAC-0d1117?style=flat-square&logo=shield&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PAM-0d1117?style=flat-square&logo=lock&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MFA-0d1117?style=flat-square&logo=authenticator&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SSO-0d1117?style=flat-square&logo=onelogin&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>📐 Frameworks & Standards</h3>
-      <img src="https://img.shields.io/badge/MITRE_ATT%26CK-0d1117?style=flat-square&logo=mitre&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OWASP_Top_10-0d1117?style=flat-square&logo=owasp&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NIST_CSF-0d1117?style=flat-square&logo=nist&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PTES-0d1117?style=flat-square&logo=testing&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CVSS-0d1117?style=flat-square&logo=commoncriteria&logoColor=white"/>
-    </td>
-    <td width="33%" valign="top">
-      <h3>☁️ Infrastructure & Cloud</h3>
-      <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624"/>
-      <img src="https://img.shields.io/badge/Windows_Server-0d1117?style=flat-square&logo=windows&logoColor=0078D4"/>
-      <img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
-      <img src="https://img.shields.io/badge/Azure-0d1117?style=flat-square&logo=microsoftazure&logoColor=0078D4"/>
-      <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED"/>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🧠 Additional Skills</h3>
-      <img src="https://img.shields.io/badge/Zero_Trust-0d1117?style=flat-square&logo=zerotier&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SIEM-0d1117?style=flat-square&logo=splunk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/EDR-0d1117?style=flat-square&logo=elastic&logoColor=white"/>
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+
+<td width="33%" valign="top">
+
+### 🐍 Languages & Automation
+
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=FFD43B)
+![PowerShell](https://img.shields.io/badge/PowerShell-111827?style=flat-square&logo=powershell&logoColor=5391FE)
+![Bash](https://img.shields.io/badge/Bash-111827?style=flat-square&logo=gnubash&logoColor=4EAA25)
+![Automation](https://img.shields.io/badge/Security_Automation-111827?style=flat-square&logo=githubactions&logoColor=22C55E)
+![Scripting](https://img.shields.io/badge/Scripting-Enterprise_Grade-111827?style=flat-square&logo=codefactor&logoColor=38BDF8)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 💥 Offensive Security
+
+![Metasploit](https://img.shields.io/badge/Metasploit-111827?style=flat-square&logo=metasploit&logoColor=2596CD)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-111827?style=flat-square&logo=burpsuite&logoColor=FF6633)
+![BloodHound](https://img.shields.io/badge/BloodHound-111827?style=flat-square&logo=houndci&logoColor=ffffff)
+![Impacket](https://img.shields.io/badge/Impacket-111827?style=flat-square&logo=python&logoColor=38BDF8)
+![Responder](https://img.shields.io/badge/Responder-111827?style=flat-square&logo=hackthebox&logoColor=9FEF00)
+![Nmap](https://img.shields.io/badge/Nmap-111827?style=flat-square&logo=gnometerminal&logoColor=ffffff)
+![Nessus](https://img.shields.io/badge/Nessus-111827?style=flat-square&logo=tenable&logoColor=00BB00)
+![Wireshark](https://img.shields.io/badge/Wireshark-111827?style=flat-square&logo=wireshark&logoColor=1679A7)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🏢 Identity & Enterprise
+
+![Active Directory](https://img.shields.io/badge/Active_Directory-111827?style=flat-square&logo=windows&logoColor=0078D4)
+![Azure AD](https://img.shields.io/badge/Azure_AD-111827?style=flat-square&logo=microsoftazure&logoColor=0078D4)
+![Kerberos](https://img.shields.io/badge/Kerberos-111827?style=flat-square&logo=keycdn&logoColor=ffffff)
+![LDAP](https://img.shields.io/badge/LDAP-111827?style=flat-square&logo=openldap&logoColor=38BDF8)
+![Group Policy](https://img.shields.io/badge/Group_Policy-111827?style=flat-square&logo=microsoft&logoColor=ffffff)
+![RBAC](https://img.shields.io/badge/RBAC-111827?style=flat-square&logo=auth0&logoColor=F97316)
+![PAM](https://img.shields.io/badge/PAM-111827?style=flat-square&logo=1password&logoColor=DC2626)
+![MFA](https://img.shields.io/badge/MFA-111827?style=flat-square&logo=duolingo&logoColor=58CC02)
+![SSO](https://img.shields.io/badge/SSO-111827?style=flat-square&logo=okta&logoColor=38BDF8)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+### 📐 Frameworks & Standards
+
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-111827?style=flat-square&logo=mitre&logoColor=ffffff)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-111827?style=flat-square&logo=owasp&logoColor=ffffff)
+![NIST](https://img.shields.io/badge/NIST_CSF-111827?style=flat-square&logo=databricks&logoColor=38BDF8)
+![PTES](https://img.shields.io/badge/PTES-111827?style=flat-square&logo=testinglibrary&logoColor=F59E0B)
+![CVSS](https://img.shields.io/badge/CVSS-111827?style=flat-square&logo=securityscorecard&logoColor=EF4444)
+![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-111827?style=flat-square&logo=googlescholar&logoColor=22C55E)
+
+</td>
+
+<td width="33%" valign="top">
+
+### ☁️ Infrastructure & Cloud
+
+![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624)
+![Windows Server](https://img.shields.io/badge/Windows_Server-111827?style=flat-square&logo=windows&logoColor=0078D4)
+![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-111827?style=flat-square&logo=microsoftazure&logoColor=0078D4)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED)
+![VMware](https://img.shields.io/badge/VMware-111827?style=flat-square&logo=vmware&logoColor=607078)
+![Virtualization](https://img.shields.io/badge/Virtualization-111827?style=flat-square&logo=proxmox&logoColor=E57000)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🧠 Security Operations
+
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-111827?style=flat-square&logo=zerotier&logoColor=ffffff)
+![SIEM](https://img.shields.io/badge/SIEM-111827?style=flat-square&logo=splunk&logoColor=F97316)
+![EDR](https://img.shields.io/badge/EDR-111827?style=flat-square&logo=elastic&logoColor=22C55E)
+![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-111827?style=flat-square&logo=hackthebox&logoColor=9FEF00)
+![Incident Response](https://img.shields.io/badge/Incident_Response-111827?style=flat-square&logo=firefoxbrowser&logoColor=F97316)
+![DFIR](https://img.shields.io/badge/DFIR-111827?style=flat-square&logo=datadog&logoColor=632CA6)
+![SOC Operations](https://img.shields.io/badge/SOC_Operations-111827?style=flat-square&logo=cloudflare&logoColor=F38020)
+
+</td>
+
+</tr>
 </table>
 
 </div>
+
+
 
 ---
 
